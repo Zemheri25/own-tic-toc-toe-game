@@ -27,7 +27,7 @@ let = countx = 0;
 let = county = 0;
 
 function adding1() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county && h1.innerHTML == "") {
     oneone.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -93,7 +93,7 @@ function adding1() {
 }
 
 function adding2() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county && h1.innerHTML == "") {
     onetwo.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -159,7 +159,7 @@ function adding2() {
 }
 
 function adding3() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county && h1.innerHTML == "") {
     onethree.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -224,7 +224,7 @@ function adding3() {
 }
 
 function adding4() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county && h1.innerHTML == "") {
     twoone.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -290,7 +290,7 @@ function adding4() {
 }
 
 function adding5() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county  && h1.innerHTML == "") {
     twotwo.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -356,7 +356,7 @@ function adding5() {
 }
 
 function adding6() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county  && h1.innerHTML == "") {
     twothree.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -422,7 +422,7 @@ function adding6() {
 }
 
 function adding7() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county  && h1.innerHTML == "") {
     threeone.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -488,7 +488,7 @@ function adding7() {
 }
 
 function adding8() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county && h1.innerHTML == "") {
     threetwo.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -554,7 +554,7 @@ function adding8() {
 }
 
 function adding9() {
-  if (countx == county || countx < county && h1.innerHTML == "") {
+  if (countx == county  && h1.innerHTML == "") {
     threethree.innerText = "X";
     countx++;
   } else if (county < countx && h1.innerHTML == "") {
@@ -630,4 +630,5 @@ function reset1() {
   threetwo.innerHTML = "";
   threethree.innerHTML = "";
   h1.innerHTML = "";
+  
 }
