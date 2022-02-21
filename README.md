@@ -4,4 +4,4 @@
 #I will improve the game one by one.
 #Enjoy it.
 https://zemheri25.github.io/own-tic-toc-toe-game/
-![] (images/gamepicture.jpg)
+![] (own-tic-toc-toe-game/images/gamepicture.JPG)
