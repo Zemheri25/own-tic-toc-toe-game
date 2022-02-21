@@ -3,3 +3,4 @@
 #All algorithms belong to me.
 #I will improve the game one by one.
 #Enjoy it.
+![] (images/TİCTOCTOE.JPG)
