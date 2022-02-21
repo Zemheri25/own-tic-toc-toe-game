@@ -3,4 +3,5 @@
 #All algorithms belong to me.
 #I will improve the game one by one.
 #Enjoy it.
-![] (images/TTT.JPG)
+https://zemheri25.github.io/own-tic-toc-toe-game/
+![ ] (images/T%20T%20T.JPG)
