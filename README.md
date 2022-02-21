@@ -3,4 +3,4 @@
 #All algorithms belong to me.
 #I will improve the game one by one.
 #Enjoy it.
-![] (images/T%20T%20T.JPG)
+![] (main/images/T%20T%20T.JPG)
